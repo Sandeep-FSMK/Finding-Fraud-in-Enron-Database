@@ -1,0 +1,7 @@
+https://github.com/baumanab/udacity_intro_machinelearning_project
+https://github.com/allanbreyes/udacity-data-science/tree/master/p4 
+https://github.com/avs20/IntroToMachineLearning
+http://scikit-learn.org/stable/
+https://discussions.udacity.com/t/project-fear-strugging-with-machine-learning-project/198529/91
+
+
